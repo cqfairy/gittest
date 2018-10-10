@@ -3,6 +3,6 @@ package com.xx.gittest;
 public class Teacher {
 
     public void say(){
-        System.out.println("say2");
+        System.out.println("say6");
     }
 }

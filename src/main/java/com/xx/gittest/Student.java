@@ -5,6 +5,6 @@ public class Student {
     public void study(){
         System.out.println("study");
         System.out.println("study1");
-        System.out.println("study21");
+        System.out.println("study26");
     }
 }
